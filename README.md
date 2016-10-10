@@ -15,6 +15,6 @@ Simple Lottery Game Application with below features provided to the user.
     
  Functionalities :
  
- 1. Purchase
- 2. Draw
+ - Purchase
+ - Draw
  3. Winners
